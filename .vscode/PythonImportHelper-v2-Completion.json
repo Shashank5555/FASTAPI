@@ -12,7 +12,7 @@
         "kind": 2,
         "importPath": "app.main",
         "description": "app.main",
-        "peekOfCode": "def read_root():\n    return {\"message\": \"Hello everyone. This is Shashank! How are you doing? I'm good. Thank you for asking.\"}\n   ekajfnaskdjnf\n@app.get(\"/health\")\ndef health():\n    return {\"status\": \"ok\"}",
+        "peekOfCode": "def read_root():\n    return {\"message\": \"Hello everyone. This is Shashank! How are you doing? I'm good. Thank you for asking.\"\n   ekajfnaskdjnf\n@app.get(\"/health\")\ndef health():\n    return {\"status\": \"ok\"}",
         "detail": "app.main",
         "documentation": {}
     },
@@ -30,7 +30,7 @@
         "kind": 5,
         "importPath": "app.main",
         "description": "app.main",
-        "peekOfCode": "app = FastAPI()\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Hello everyone. This is Shashank! How are you doing? I'm good. Thank you for asking.\"}\n   ekajfnaskdjnf\n@app.get(\"/health\")\ndef health():\n    return {\"status\": \"ok\"}",
+        "peekOfCode": "app = FastAPI()\n@app.get(\"/\")\ndef read_root():\n    return {\"message\": \"Hello everyone. This is Shashank! How are you doing? I'm good. Thank you for asking.\"\n   ekajfnaskdjnf\n@app.get(\"/health\")\ndef health():\n    return {\"status\": \"ok\"}",
         "detail": "app.main",
         "documentation": {}
     }
